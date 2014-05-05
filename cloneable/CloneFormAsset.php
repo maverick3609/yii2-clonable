@@ -6,7 +6,7 @@
  * @version 1.0.0
  */
 
-namespace maverick\builder;
+namespace maverick\cloneable;
 
 /**
  * Asset bundle for \kartik\widgets\Alert
