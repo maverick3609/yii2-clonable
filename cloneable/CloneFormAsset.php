@@ -14,7 +14,7 @@ namespace maverick\cloneable;
  * @author Kartik Visweswaran <kartikv2@gmail.com>
  * @since 1.0
  */
-class FormAsset extends \kartik\widgets\AssetBundle
+class CloneFormAsset extends \kartik\widgets\AssetBundle
 {
 
     public function init()
